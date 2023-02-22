@@ -1,8 +1,6 @@
 {
 	"test": {
 		"id": 1,
-		"title": "Hello",
-		"completed": true,
 		"res_code": "200",
 		"res_message": "Yeah!"
 	}
