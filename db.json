@@ -1,6 +1,7 @@
 {
 	"test": {
 		"id": 1,
+		"loginType": "AUTO",
 		"res_code": "200",
 		"res_message": "Yeah!"
 	}
